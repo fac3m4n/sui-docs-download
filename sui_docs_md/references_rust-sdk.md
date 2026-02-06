@@ -1,0 +1,1 @@
+The Sui Rust SDK crate is in the [**crates\sui-sdk** directory](https://github.com/MystenLabs/sui/tree/main/crates/sui-sdk) of the Sui repository.

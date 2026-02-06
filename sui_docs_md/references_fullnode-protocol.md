@@ -1,0 +1,1 @@
+Sui full node gRPC API replaces JSON-RPC on full nodes. JSON-RPC is `deprecated`.

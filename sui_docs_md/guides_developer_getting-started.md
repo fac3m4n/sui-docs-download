@@ -1,0 +1,6 @@
+- [Install Sui](/guides/developer/getting-started/sui-install)
+- [Configure a Sui Client](/guides/developer/getting-started/configure-sui-client)
+- [Create a Sui Address](/guides/developer/getting-started/get-address)
+- [Get SUI from Faucet](/guides/developer/getting-started/get-coins)
+- [Hello, World!](/guides/developer/getting-started/hello-world)
+- [Next Steps](/guides/developer/getting-started/next-steps)
